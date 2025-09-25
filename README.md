@@ -1,75 +1,19 @@
-# Nuxt Minimal Starter
+# OG Esports Fanmade Website 🎮
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Website ini adalah proyek **fanmade** yang dibuat untuk memberikan informasi seputar **OG Esports**, salah satu organisasi esports paling ikonik di dunia.  
+Dibangun dengan **Vue 3 + Nuxt + TailwindCSS**, website ini berfokus pada tampilan modern dengan nuansa gelap (dark theme) yang sesuai dengan branding esports.
 
-## Setup
+---
 
-Make sure to install dependencies:
+## 🛠️ Tech Stack
 
-```bash
-# npm
-npm install
+- [Nuxt 3](https://nuxt.com/) (Vue 3 Framework)
+- [TailwindCSS](https://tailwindcss.com/) untuk styling
+- [Vite](https://vitejs.dev/) untuk fast build & dev server
 
-# pnpm
-pnpm install
+---
 
-# yarn
-yarn install
+## 📌 Catatan
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Ini adalah proyek **fanmade** (tidak resmi).
+- Semua aset (gambar/logo) hanya digunakan sebagai media **non-komersial** untuk keperluan desain dan portofolio.
