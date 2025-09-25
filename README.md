@@ -7,7 +7,7 @@ Dibangun dengan **Vue 3 + Nuxt + TailwindCSS**, website ini berfokus pada tampil
 
 ## 🛠️ Tech Stack
 
-- [Nuxt 3](https://nuxt.com/) (Vue 3 Framework)
+- [Nuxt](https://nuxt.com/) (Vue 3 Framework)
 - [TailwindCSS](https://tailwindcss.com/) untuk styling
 - [Vite](https://vitejs.dev/) untuk fast build & dev server
 
